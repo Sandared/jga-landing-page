@@ -223,7 +223,7 @@ function Email3Content() {
           Den genauen Standort finden Sie unter folgendem Link:
         </p>
         <a
-          href="https://maps.app.goo.gl/a9snHJ2sd3jf8bzg8"
+          href="https://maps.app.goo.gl/AZkbRTvmfkQ3PNdi8"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-neon-blue/20 hover:bg-neon-blue/30 text-neon-blue px-4 py-2 rounded-lg transition-colors font-medium text-sm"
@@ -233,7 +233,7 @@ function Email3Content() {
           <ExternalLink className="w-3 h-3" />
         </a>
         <p className="text-gray-500 text-xs mt-2 break-all">
-          https://maps.app.goo.gl/a9snHJ2sd3jf8bzg8
+          https://maps.app.goo.gl/AZkbRTvmfkQ3PNdi8
         </p>
       </div>
       <p>
